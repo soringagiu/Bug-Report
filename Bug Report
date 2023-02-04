@@ -1,0 +1,104 @@
+# Bug Reports
+
+
+Below are some bug reports that I wrote when I learned at QA Courses.
+
+--------------------------------
+
+
+**Title**
+Login is not working properly
+
+**Description:**
+When trying to login with the correct credentials, nothing happens.
+The user is not logged in and no error message is displayed.
+
+**Steps to reproduce**
+1.Go on website.com/login
+2.Add a correct user/pass
+
+**Expected result:**
+User should be able to login and is taken to his profile page.
+
+**Actual result:**
+User is no logged and no error appears.
+
+**Test Data**
+User: sorin & Pass: 123456
+
+**Status**
+New(New, In progress, Done, Reopen)
+
+
+---------------------------------------------------
+
+**Title**
+Search button is not working properly
+
+**Description**
+When trying to search on the website with words suitable for the domain of the site and which containing 3 or more letters, a error message appears.
+
+**Steps to reproduce**
+1.Go on website/search
+2.Type the words suitable for the domain of the site and which containing 3 or more letters
+3.It shows "Error 404"
+
+**Expected result**
+User shoud be able to search on the website.
+
+**Actual result**
+User can`t find what he wants and a message "Error 404" appears.
+
+**Test Data**
+Ex(search): Dacia(on the website which contents car sales)
+
+**Status**
+New(New, In progress, Done, Reopen)
+
+
+------------------------------------------------
+
+
+**Title**
+The website is not responsive on the phone
+
+**Description**
+When trying to access the website on an iPhone 12, the content is not displayed in order
+
+**Steps to reproduce**
+1.Go on the website on an Iphone 12
+2.The website is not displayed in order
+3.The "Menu" bar does not display all options
+4.The "Search" button disappear
+5.The content of the website is out of bounds
+
+**Expected result:**
+The website shoud de responsive on an iPhone12
+
+**Actual result**
+The website is not responsive on an iPhone12
+
+**Test Data**
+Access to the website using iPhone12
+
+**Status**
+New(New, In preogress, Done, Reopen)
+
+
+----------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
